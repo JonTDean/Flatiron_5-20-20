@@ -51,7 +51,7 @@ end
 
 1. Artist:
 
-For <sup>[1](#myfootnote1)</sup> *./lib/artist.rb*
+For <sup>[1](#dir_han)</sup> *./lib/artist.rb*
 
 ```ruby
 class Artist
@@ -61,7 +61,7 @@ end
 
 2. Album:
 
-For <sup>[1](#myfootnote1)</sup> *./lib/album.rb*
+For <sup>[1](#dir_han)</sup> *./lib/album.rb*
 
 ```ruby
 class Album
@@ -71,7 +71,7 @@ end
 
 3. Song:
 
-For <sup>[1](#myfootnote1)</sup> *./lib/song.rb*
+For <sup>[1](#dir_han)</sup> *./lib/song.rb*
 
 ```ruby
 class Song
@@ -80,6 +80,5 @@ end
 ```
 </Details>
 
-Quick Code Tips:
 
-<a name="myfootnote1">1</a>: In order to
+---
