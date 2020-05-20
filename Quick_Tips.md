@@ -84,7 +84,7 @@
 ----
 
 <a name="git">2</a>: Git Life
-Details>
+<Details>
 <summary> Git Command List </summary>
 
 1. To create a repository
@@ -112,9 +112,10 @@ Details>
         ``` git remote add origin git@github.com:admin/git_link.git ```
 
 3. To use an existing repository on local machine
-    1. Go to repository link and click fork
+    1. Go to repository link and click -- **Fork** --
 
     2. Clone repository to machine in Current Folder
+
 ```zsh
     git clone git@github.com:admin/git_link.git
 ```
@@ -132,10 +133,10 @@ Details>
 ```
 
 6. To push current local copy to Repository
-    
-    6[AA]: Stage All Files
 
-    1. Add all files ( **.** is a wildcard)
+    Stage All Files (Including new files)
+
+    1. Add all files ( **.** is a wildcard) 
 
         ``` git add . ```
 
@@ -143,14 +144,54 @@ Details>
 
         ``` git commit -m "Test Commit" ```
 
-    6[AB] Stage All Files
-    
+    OR Stage All Files (Not including new files)
+
     1. Automattically stage files that have been modified
+
         ``` git commit -a -m "Test Commit" ```
 
+    Push files
+
+    1. Push files to repositiory
+
 ```zsh
-    git push -u origin branch_name
+        git push -u origin branch_name
 ```
+
+7. How to create a branch and How to switch a branch
+    1. Create a Branch
+
+        ``` git branch branch_name ```
+
+    2. Switch to a Branch
+
+        ``` git checkout branch_name ```
+
+9. To merge branches
+
+    1. Check what branch you're on
+
+    2. Switch to the branch you want to merge into.
+        
+        If you want to take branch_B and merge it into branch_A:
+
+        **You need to checkout to branch_A**
+
+    3. Merge branches
+
+```zsh
+        git merge branch_B
+```
+
+10. To delete a remote branch and a local branch
+
+    Remote Branch:
+
+    ``` git branch -d branch_name ```
+
+    Local branch:
+
+    ```git branch -D branch_name```
 
 </Details>
 
