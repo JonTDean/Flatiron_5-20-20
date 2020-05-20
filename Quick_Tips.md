@@ -146,7 +146,7 @@ Details>
     6[AB] Stage All Files
     
     1. Automattically stage files that have been modified
-        ``` git commit -a ```
+        ``` git commit -a -m "Test Commit" ```
 
 ```zsh
     git push -u origin branch_name
