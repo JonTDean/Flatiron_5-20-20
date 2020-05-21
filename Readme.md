@@ -158,9 +158,8 @@ Links for information:
 
     1. String :: Album Name
     2. Date :: Date of Release (DD/MM/YYYY)
-    3. Integer :: Album Age
-    4. Object :: \<Class :: Song>
-    5. Object :: \<Class :: Artist>
+    3. Object :: \<Class :: Song>
+    4. Object :: \<Class :: Artist>
 
 </Details>
 
@@ -181,7 +180,6 @@ Links for information:
 
     1. String :: Name of Song
     2. Date :: Date of Release (DD/MM/YYYY)
-    3. Integer :: Age of Song
-    4. Integer :: Song Length in Seconds
+    3. Integer :: Song Length in Seconds
 
 </Details>
