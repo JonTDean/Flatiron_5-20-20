@@ -241,11 +241,11 @@ Push files
 
 1. Create a Branch
 
-        ``` git branch branch_name ```
+    ``` git branch branch_name ```
 
 2. Switch to a Branch
 
-        ``` git checkout branch_name ```
+    ``` git checkout branch_name ```
 
 ----
 
@@ -255,7 +255,7 @@ Push files
 
 2. Switch to the branch you want to merge into.
 
-```
+```zsh
         If you want to take branch_B and merge it into branch_A:
 
         You need to:
