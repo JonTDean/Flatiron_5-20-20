@@ -11,14 +11,15 @@ Links for information:
 
 Create a relational database between
 
-1. Class :: Artist
+1. Class :: Album
 
-2. Class :: Album
+2. Class :: Artist
 
 3. Class :: Song
 
 ## RULES
 <dl> 
+
 <dt>Class :: Album: </dt>
     <dd>An album belongs to one artist</dd>
     <dd>An album has multiple items</dd>
@@ -33,4 +34,5 @@ Create a relational database between
     <dd>A song must be unique to an album</dd>
     <dd>A song belongs to one album</dd>
     <dd>A song belongs to an artist through album</dd>
+
 </dl>  

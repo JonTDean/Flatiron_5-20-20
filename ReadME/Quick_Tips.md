@@ -3,6 +3,15 @@
 Contents
 
 [Directory Handling](#dir_han)
+
+[Git](#git)
+
+----
+
+<a name="dir_han">1</a>: Directory Handling∂∂
+<Details>
+<summary> Directory Handling Command List </summary>
+
 <Details>
 <summary>Contents</summary>
 
@@ -29,35 +38,6 @@ Contents
 11. [(Cut: b) To cut file and delete file (Renames to target)](#dir_han_11)
 
 </Details>
-
-[Git](#git)
-<Details>
-<summary>Contents</summary>
-
-1.[To create a repository](#git_1)
-
-2.[To use an empty repository](#git_2)
-
-3.[To use an existing repository on local machine](#git_3)
-
-4.[To update local copy with new commits and data from Repository](#git_4)
-
-5.[To update local copy with new commits](#git_5)
-
-6.[To push current local copy to Repository](#git_6)
-
-7.[How to create a branch and How to switch a branch](#git_7)
-
-8.[To merge branches](#git_8)
-
-9.[To delete a remote branch and a local branch](#git_9)
-</Details>
-
-----
-
-<a name="dir_han">1</a>: Directory Handling
-<Details>
-<summary> Directory Handling Command List </summary>
 
 <a name="dir_han__1">1.</a> In order to change to that directory:
 
@@ -139,7 +119,30 @@ Contents
 <Details>
 <summary> Git Command List </summary>
 
-<a name="git_1">1.</a> To create a repository
+<Details>
+<summary>Contents</summary>
+
+1.[To create a repository](#git_1)
+
+2.[To use an empty repository](#git_2)
+
+3.[To use an existing repository on local machine](#git_3)
+
+4.[To update local copy with new commits and data from Repository](#git_4)
+
+5.[To update local copy with new commits](#git_5)
+
+6.[To push current local copy to Repository](#git_6)
+
+7.[How to create a branch and How to switch a branch](#git_7)
+
+8.[To merge branches](#git_8)
+
+9.[To delete a remote branch and a local branch](#git_9)
+
+</Details>
+
+<a name="git_o">1.</a> To create a repository
 
     1. Go to https://github.com/new
 
