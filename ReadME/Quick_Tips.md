@@ -110,7 +110,7 @@ Contents
 ```zsh
     mv file_name Directory_Name
 
-    (If a !!folder!! doesn't exist, file is recreated with Directory_Name value!!)
+    (If a !!folder!! doesn\'t exist, file is recreated with Directory_Name value!!)
 ```
 
 <a name="dir_han__9">9.</a> In order to copy file:
