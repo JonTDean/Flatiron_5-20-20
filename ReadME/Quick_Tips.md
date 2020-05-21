@@ -8,7 +8,7 @@ Contents
 
 ----
 
-<a name="dir_han">1</a>: Directory Handling∂∂
+<a name="dir_han">1</a>: Directory Handling
 <Details>
 <summary> Directory Handling Command List </summary>
 
